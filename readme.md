@@ -18,3 +18,5 @@ Navigate to source folder
 Generate scaffolding. Remember to use the <code>--hbs</code> flag to tell the generator that we'll be using handlebars:
 
 * <code>express --view=hbs</code>
+
+Follow these instructions to get node and postgresql: http://mherman.org/blog/2015/02/12/postgresql-and-nodejs/#.WdaXXxOPLxs
