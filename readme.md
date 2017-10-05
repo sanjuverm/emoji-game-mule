@@ -14,6 +14,7 @@ Install both globally:
 * <code>npm install -g nodemon</code>
 * <code>npm install -g express-generator</code>
 
+Navigate to source folder
 Generate scaffolding. Remember to use the <code>--hbs</code> flag to tell the generator that we'll be using handlebars:
 
 * <code>express --view=hbs</code>
