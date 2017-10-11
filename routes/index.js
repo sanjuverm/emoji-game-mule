@@ -124,6 +124,10 @@ router.delete('/api/v1/todos/:todo_id', (req, res, next) => {
   });
 });
 
+router.get('/welcome', function(req, res){
+	res.render('welcome');
+});
+
 router.get('/game', function(req, res){
 	res.render('game');
 });

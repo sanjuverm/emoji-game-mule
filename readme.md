@@ -22,3 +22,4 @@ Generate scaffolding. Remember to use the <code>--hbs</code> flag to tell the ge
 Follow these instructions to get node and postgresql: http://mherman.org/blog/2015/02/12/postgresql-and-nodejs/#.WdaXXxOPLxs
 
 following the above tutorial except my DB is named template1
+followed this tutorial up until the angular bit, now doing it on my own
